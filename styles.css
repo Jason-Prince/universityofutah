@@ -162,6 +162,7 @@ tr td:nth-child(3) {
   transform: translate(-20px, -25px) !important;
   min-width: 120px;
   text-align: center;
+  font-size: 14px !important;
   /* border: 2px solid red; */
 }
 
