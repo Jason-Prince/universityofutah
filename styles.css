@@ -1,0 +1,183 @@
+/* Logo - updated html line 47602 with the logo.svg */
+.hip_thm--light div {
+  font-family: "Roboto", sans-serif;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 500px;
+}
+
+/* Top row - spaced and aligned*/
+.hip_thm--light .flex-wrap {
+  justify-content: space-between;
+  align-content: center;
+}
+
+/* Buttons - spaced apart from each other*/
+.hip_thm--light .btn-sm {
+  margin: 10px;
+  font-family: "Montserrat", sans-serif;
+
+  /* Buttons and Selected - cetered vertically */
+}
+.d-flex.flex-wrap div {
+  align-self: center;
+}
+
+/* 100% - fixed space issue with "(  100%)" */
+div span[style="min-width: 3em; text-align: right; display: inline-block;"] {
+  min-width: 0px !important;
+}
+
+/* Restore Button - changed to outline inverted type */
+/* When disabled - added opacity */
+button[title*="Remove all applied filters"]:disabled {
+  color: #4082a5 !important;
+  background-color: white !important;
+  border: 1px solid #4082a5 !important;
+  opacity: 0.7;
+}
+/* When disabled and hover - no change when hovering */
+button[title*="Remove all applied filters"]:disabled:hover {
+  color: #4082a5 !important;
+  background-color: white !important;
+  border: 1px solid #4082a5 !important;
+  opacity: 0.7;
+}
+
+/* When not disabled - added cursor to use pointer */
+button[title*="Remove all applied filters"] {
+  color: #4082a5 !important;
+  background-color: white !important;
+  border: 1px solid #4082a5 !important;
+  cursor: pointer;
+}
+
+/* When not disabled and hovered - invert colors*/
+button[title*="Remove all applied filters"]:hover {
+  color: white !important;
+  background-color: #4082a5 !important;
+  border: 1px solid white !important;
+}
+
+/* Keep Button - changed to outline inverted type */
+/* When disabled - added opacity */
+button[title*="Zoom in on selected data"]:disabled {
+  color: #287a6b !important;
+  background-color: white !important;
+  border: 1px solid #287a6b !important;
+  opacity: 0.7;
+}
+/* When disabled and hover - no change when hovering */
+button[title*="Zoom in on selected data"]:disabled:hover {
+  color: #287a6b !important;
+  background-color: white !important;
+  border: 1px solid #287a6b !important;
+  opacity: 0.7;
+}
+
+/* When not disabled - added cursor to use pointer */
+button[title*="Zoom in on selected data"] {
+  color: #287a6b !important;
+  background-color: white !important;
+  border: 1px solid #287a6b !important;
+  cursor: pointer;
+}
+
+/* When not disabled and hovered - invert colors*/
+button[title*="Zoom in on selected data"]:hover {
+  color: white !important;
+  background-color: #287a6b !important;
+  border: 1px solid white !important;
+}
+
+/* Exclude Button - changed to outline inverted type */
+/* When disabled - added opacity */
+button[title*="Remove selected data"]:disabled {
+  color: #7a3928 !important;
+  background-color: white !important;
+  border: 1px solid #7a3928 !important;
+  opacity: 0.7;
+}
+/* When disabled and hover - no change when hovering */
+button[title*="Remove selected data"]:disabled:hover {
+  color: #7a3928 !important;
+  background-color: white !important;
+  border: 1px solid #7a3928 !important;
+  opacity: 0.7;
+}
+
+/* When not disabled - added cursor to use pointer */
+button[title*="Remove selected data"] {
+  color: #7a3928 !important;
+  background-color: white !important;
+  border: 1px solid #7a3928 !important;
+  cursor: pointer;
+}
+
+/* When not disabled and hovered - invert colors*/
+button[title*="Remove selected data"]:hover {
+  color: white !important;
+  background-color: #7a3928 !important;
+  border: 1px solid white !important;
+}
+
+/* Hide Export and Help buttons */
+button[title="Export data as CSV"],
+button[title="Start HiPlot tutorial"] {
+  display: none !important;
+}
+
+th,
+span,
+div[style="font-family: monospace; font-size: 14px;"] {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+table {
+  width: 100%;
+}
+
+._1ZUSF-tbSSCscSmTY4-BEX,
+._3jHLkrE3pIpw8R_Qw5_T0S,
+._3Xzbpi7clTMlgQuSC3TkSJ,
+.container-fluid._27zXkTqskweooVZri-rve2 {
+  background-color: white !important;
+}
+
+th[data-column-index="2"] {
+  display: none;
+}
+
+tr td:nth-child(3) {
+  display: none;
+}
+
+.label-name {
+  white-space: normal;
+  transform: rotate(0deg) !important;
+  transform: translate(-20px, -25px) !important;
+  min-width: 120px;
+  text-align: center;
+  /* border: 2px solid red; */
+}
+
+.pplot-label {
+  x: -38;
+}
+
+svg {
+  font-family: "Roboto", sans-serif !important;
+}
+
+@media screen and (max-width: 1330px) {
+  .pplot-label {
+    x: -20;
+  }
+  .label-name {
+    min-width: 80px;
+  }
+}

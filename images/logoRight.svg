@@ -1,0 +1,42 @@
+<svg version="1.1" viewBox="0 0 647.78 124.67" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<clipPath id="clipPath18">
+			<path d="m0 6.1035e-5h612v792h-612z" style="clip-rule:evenodd"/>
+		</clipPath>
+		<clipPath id="clipPath28">
+			<path d="m0 0h492.86v99.863h-492.86z"/>
+		</clipPath>
+		<clipPath>
+			<path d="m9.12e-6 0h612v792h-612z" style="clip-rule:evenodd"/>
+		</clipPath>
+	</defs>
+	<g transform="matrix(1.3386 0 0 -1.3333 -103.34 955.58)">
+		<g clip-path="url(#clipPath18)">
+			<g transform="matrix(6.8347,-7.54e-7,-9.4e-8,1.375,72.06,620.94)">
+				<g transform="scale(.14609 .72099)">
+					<g clip-path="url(#clipPath28)">
+						<text transform="matrix(1,0,0,-1,5.8451,21.159)" style="fill:#000000;font-family:'CENTURY GOTHIC';font-size:22px"><tspan x="0 13.03272 26.807039 31.611383 36.41573 51.887089 56.691433 70.508232 85.711029 92.201759 105.62112 120.3192 127.33646 134.64374 149.4491 156.46637 177.50189 192.93005 206.74684 221.38013 236.0782 242.56894 253.92621 258.73056 279.76608 293.54041 298.34476 313.77292 321.62811 326.43243 341.23779" y="0">Building Performance Simulation</tspan></text>
+						<text transform="matrix(1,0,0,-1,5.8451,61.659)" style="fill:#000000;font-family:'CENTURY GOTHIC';font-size:22px;font-weight:bold"><tspan x="0" y="0">M</tspan></text>
+						<text transform="matrix(1,0,0,-1,25.643,61.659)" style="fill:#000000;font-family:'CENTURY GOTHIC';font-size:22px;font-weight:bold"><tspan x="0" y="0">.</tspan></text>
+						<text transform="matrix(1,0,0,-1,31.798,61.659)" style="fill:#000000;font-family:'CENTURY GOTHIC';font-size:22px;font-weight:bold"><tspan x="0" y="0">S</tspan></text>
+						<text transform="matrix(1,0,0,-1,43.239,61.659)" style="fill:#000000;font-family:'CENTURY GOTHIC';font-size:22px;font-weight:bold"><tspan x="0 6.1553521" y="0">. </tspan></text>
+						<text transform="matrix(1,0,0,-1,55.55,61.659)" style="fill:#000000;font-family:'CENTURY GOTHIC';font-size:22px;font-weight:bold"><tspan x="0 16.274879 30.798719 45.322559 50.597065 60.276024 74.359222 87.561142 93.716499 108.24033 121.44225 135.96609 142.12144 158.39633 168.07529 177.75424 191.83745 205.92065 211.19514 225.71899 232.31462 246.39783" y="0">Addison and Associates</tspan></text>
+						<text transform="matrix(1,0,0,-1,311.62,61.659)" style="fill:#000000;font-family:'CENTURY GOTHIC';font-size:22px;font-weight:bold"><tspan x="0 6.1553521" y="0">, </tspan></text>
+						<text transform="matrix(1,0,0,-1,323.94,61.659)" style="fill:#000000;font-family:'CENTURY GOTHIC';font-size:22px;font-weight:bold"><tspan x="0 9.6789598 19.35792" y="0">LLC</tspan></text>
+						<path d="m6.345 48.526h482.26" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2.4;stroke:#00f"/>
+						<path d="m377.49 57.5h108.16" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m380.66 66.729h101.24" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m387.58 75.959h87.97" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m399.12 85.189h65.62" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m418.82 94.418h26.83" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m484.78 39.553h-108.16" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+						<path d="m481.61 30.323h-101.24" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+						<path d="m474.69 21.094h-87.97" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+						<path d="m463.15 11.864h-65.62" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+						<path d="m445.65 2.6345h-26.83" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
