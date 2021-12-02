@@ -158,11 +158,11 @@ tr td:nth-child(3) {
 
 .label-name {
   white-space: normal;
-  transform: rotate(0deg) !important;
-  transform: translate(-20px, -25px) !important;
-  min-width: 120px;
-  text-align: center;
-  font-size: 14px !important;
+  transform: translate(40px, -10px) rotate(-15deg) !important;
+  /* transform: translate(-20px, -25px) !important; */
+  min-width: 230px;
+  text-align: start;
+  font-size: 16px !important;
   /* border: 2px solid red; */
 }
 
@@ -174,11 +174,18 @@ svg {
   font-family: "Roboto", sans-serif !important;
 }
 
+canvas {
+  padding: 80px 10px 10px 10px;
+}
+
+canvas,
+svg {
+  transform: scale(0.95) translateX(-10px);
+  width: 102%;
+}
+
 @media screen and (max-width: 1330px) {
   .pplot-label {
-    x: -20;
-  }
-  .label-name {
-    min-width: 80px;
+    x: -40;
   }
 }
