@@ -180,8 +180,8 @@ canvas {
 
 canvas,
 svg {
-  transform: scale(0.95) translateX(-10px);
-  width: 102%;
+  transform: scale(0.95) translateX(0px);
+  /* width: 100%; */
 }
 
 @media screen and (max-width: 1330px) {
